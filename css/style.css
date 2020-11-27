@@ -1,0 +1,43 @@
+body{
+    margin:0 20%;
+}
+
+.text-center{
+    text-align:center;
+}
+
+.img-one{
+    width:400px;
+    height:300px;
+    float:left;
+    padding:0px 30px 40px 0px;
+}
+
+.img-two{
+    width:400px;
+    height:300px;
+    float:right;
+    padding:0px 0px 30px 30px;
+   
+}
+
+
+
+.div-one{
+    float:left;
+    width:48%;
+    padding-top:50px;
+    
+}
+
+.div-two{
+    float:right;
+    width:48%;
+    padding-top:50px;
+}
+
+.div-three{
+    padding-top:50px;
+    clear:left;
+}
+
